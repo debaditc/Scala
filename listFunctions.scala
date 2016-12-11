@@ -1,6 +1,6 @@
 
 
-object listtutorials {
+object listFunctions {
   
   def main(args: Array[String]) 
   {
