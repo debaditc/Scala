@@ -1,2 +1,2 @@
 # Scala
-Scala Tutorials
+Scala Tutorial practice
